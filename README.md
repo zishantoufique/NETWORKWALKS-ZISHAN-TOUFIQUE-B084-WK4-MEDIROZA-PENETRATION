@@ -6,7 +6,7 @@
 
 **Updated:** 22 November 2026
 
-**Tester:** R.M. Naduni Umeda
+**Tester:** Zishan Toufique
 
 **Batch:** B084 - NETWORKWALKS Cybersecurity Internship
 
@@ -283,4 +283,4 @@ A massive shoutout and thank you to Sir Waqas Karim (CCIE) for your incredible m
 
 Feeling proud of this milestone and ready for the next challenge!
 
-*- R.M. Naduni Umeda | Batch B084*
+*- Zishan Toufique | Batch B084*
